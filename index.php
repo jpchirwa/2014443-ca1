@@ -17,7 +17,7 @@ function sendToDatabase(){
             alert( "Data Loaded: " + data );
          });
 }
-</script>
+        </script>
     </head>
 
     Student name: <input type="text" id="sn"/>   <br>
